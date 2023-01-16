@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38167544854",
+    "project_id": "petdomes-af134",
+    "storage_bucket": "petdomes-af134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38167544854:android:9d42d5a2a72e854f35a137",
+        "android_client_info": {
+          "package_name": "com.ftgrl.petdomes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38167544854-g3gqvpoies585i519d2cv06fhthb20pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6A9nsYJkjnqS8vYeRGa2rpPDvSKD-iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38167544854-g3gqvpoies585i519d2cv06fhthb20pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
